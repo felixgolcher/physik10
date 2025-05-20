@@ -1,5 +1,9 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 19.05.2025 16:06
+## updated: 20.05.2025 19:55
+
+## Hausaufgaben
+
+Bis Freitag [Arbeitsblatt 17](arbeitsblaetter/aufg-17-newton-basics-2025-05-20.pdf).
 
 # Über dieses Verzeichnis
 
