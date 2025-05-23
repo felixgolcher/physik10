@@ -1,9 +1,9 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 20.05.2025 19:55
+## updated: 23.05.2025 14:17
 
 ## Hausaufgaben
 
-Bis Freitag [Arbeitsblatt 17](arbeitsblaetter/aufg-17-newton-basics-2025-05-20.pdf).
+Bis Montag (26. Mai) das Versuchsprotokoll zum Versuch vom Freitag. [Hier](mitschriften_und_texte/versuchsprotokoll-schema-gewichtskraft.pdf) findet ihr nochmal ein Schema, was drin sein soll und wie das ungefähr auszusehen hat.
 
 # Über dieses Verzeichnis
 
