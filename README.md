@@ -1,9 +1,9 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 23.05.2025 14:17
+## updated: 05.06.2025 16:36
 
 ## Hausaufgaben
 
-Bis Montag (26. Mai) das Versuchsprotokoll zum Versuch vom Freitag. [Hier](mitschriften_und_texte/versuchsprotokoll-schema-gewichtskraft.pdf) findet ihr nochmal ein Schema, was drin sein soll und wie das ungefähr auszusehen hat.
+[Blatt 25](arbeitsblaetter/aufg-25-vektor-arbeit-2025-06-04.pdf)
 
 # Über dieses Verzeichnis
 
