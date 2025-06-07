@@ -1,9 +1,9 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 05.06.2025 16:36
+## updated: 07.06.2025 16:16
 
 ## Hausaufgaben
 
-[Blatt 25](arbeitsblaetter/aufg-25-vektor-arbeit-2025-06-04.pdf)
+bis Mittwoch: [Blatt 27](arbeitsblaetter/aufg-27-schiefe-ebene-2025-06-07.pdf)
 
 # Über dieses Verzeichnis
 
