@@ -1,9 +1,9 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 07.06.2025 16:16
+## updated: 11.06.2025 14:05
 
 ## Hausaufgaben
 
-bis Mittwoch: [Blatt 27](arbeitsblaetter/aufg-27-schiefe-ebene-2025-06-07.pdf)
+Derzeit keine.
 
 # Über dieses Verzeichnis
 
